@@ -23,10 +23,10 @@ export default function Index() {
             Quinten Van Kerrebroeck
           </h2>
           <p className="mt-4 text-lg">
-            I'm a developer with experience in Node.js, React, GraphQL, JSON,
-            CSS, HTML, accessibility, Storybook, Docker, TypeScript, Next.js,
-            CSS Modules, styled components, Axios, Git, AWS, Cloudflare,
-            Express, and Jest.
+            I&apos;m a developer with experience in Node.js, React, GraphQL,
+            JSON, CSS, HTML, accessibility, Storybook, Docker, TypeScript,
+            Next.js, CSS Modules, styled components, Axios, Git, AWS,
+            Cloudflare, Express, and Jest.
           </p>
         </div>
       </div>
